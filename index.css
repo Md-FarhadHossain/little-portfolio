@@ -102,7 +102,7 @@ header table {
 #top_part {
     width:100%;
     /* border:2vh solid #fff; */
-    background: linear-gradient(to top, #f1224f00 0%, #ff0c40cc 100%);
+    background: linear-gradient(to top, #f1224f00 0%, #ff0c41ed 100%);
 }
 #top_part tr td{
     width:50%;
